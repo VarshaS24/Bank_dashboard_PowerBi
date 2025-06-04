@@ -1,4 +1,4 @@
-                                                               🏦 Financial Bank Loan Analysis Dashboard
+                                                            🏦 Financial Bank Loan Analysis Dashboard
 📝 Short Description:
 
 An end-to-end Power BI dashboard that visualizes banking loan data to help stakeholders understand member loan behavior, funding distribution, risk segmentation, and performance metrics across employment tenure, geography, and loan purpose.
@@ -55,4 +55,5 @@ What is the performance comparison of current, charged-off, and fully paid loans
 🖼️ Screenshots:
 
 Shows how dashboard looks like
+
 Bank_loan_dashboard: ![Bank_loan](https://github.com/user-attachments/assets/affbfbf0-7cc7-41b4-9fc7-0e0170140743)
