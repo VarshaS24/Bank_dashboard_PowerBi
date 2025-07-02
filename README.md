@@ -3,6 +3,8 @@
 
 An end-to-end Power BI dashboard that visualizes banking loan data to help stakeholders understand member loan behavior, funding distribution, risk segmentation, and performance metrics across employment tenure, geography, and loan purpose.
 
+Live Demo: https://app.powerbi.com/groups/me/reports/f475bdcc-281a-4698-83f0-64fdafd27404/709ae736c3246980a851?experience=power-bi
+
 🧰 Tech Stack:
 
 Power BI – For interactive data visualization
